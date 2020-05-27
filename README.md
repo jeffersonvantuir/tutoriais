@@ -51,7 +51,7 @@ Listarei neste README as pastas dos tutoriais e alguns arquivos
 - crud_oop_puro
 - crud_phpoo
 - Exemplos de PHPOO
-- MVC
+## - MVC
   - micro-fw-ribafs
   - mini-mvc2
   - mvcsimples
@@ -61,14 +61,14 @@ Listarei neste README as pastas dos tutoriais e alguns arquivos
     - mvc-simples-ns-bd2
   - mvc_smbd
   - mvc_zero
-- Namespaces
+## - Namespaces
   - namespace
   - ns
   - psr4
   - psr4-ex
   - psr-4
 - Padrões de projetos
-- Paginação
+## - Paginação
     - bootpag_search
     - datatables
     - jquerypag
@@ -76,7 +76,7 @@ Listarei neste README as pastas dos tutoriais e alguns arquivos
     - paginator
     - paging_search_poo
 - phplib2
-- Router
+## - Router
   - mvc-router-inicial
     - mvc_router_inicial
     - mvc_router_inicial2
