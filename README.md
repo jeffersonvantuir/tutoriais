@@ -4,10 +4,6 @@ Aqui estarei publicando alguns tutoriais que considero que tenham valor
 
 Listarei neste README as pastas dos tutoriais e alguns arquivos
 
-## [Usando bancos para a web](bancos-para-web.md)
-
-## [Resumo do MarkDown](markdown-resumo.md)
-
 ## [Projeto de sites e aplicativos](1Projeto)
 
 ## [Dicas de Frontend](2Frontend)
